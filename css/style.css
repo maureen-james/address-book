@@ -1,7 +1,8 @@
-/* .container{
+.container{
     align-items: center;
     background-color: #0088cc;
-} */
+    padding-top: 50px;
+} 
 #show-contact {
     display: none;
   }
